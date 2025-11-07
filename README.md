@@ -1,5 +1,5 @@
 ######### **IMPORTANT FOR RECUITERS**
-This project was completed by a team of four developers. Due to a team member committing secrets (API keys) in an effort to debug the system, i had to delete commit histroy and reinitialize a seperate github repo for this project. As the repo was previously designed to be private and not shared with anyone outside of university reviewing staff, this was a non issue. However, in order to share the repo with recruiters, i have now changed the code to remove the keys, so it won't be possiblke to run this locally for the time being. 
+This project was completed by a team of four developers. Due to a team member committing secrets (API keys) in an effort to debug the system, i had to delete commit histroy and reinitialize a seperate github repo for this project. As the repo was previously designed to be private and not shared with anyone outside of university reviewing staff, this was a non issue. However, in order to share the repo with recruiters, i have now changed the code to remove the keys, so it won't be possible to run this locally for the time being. 
 #########
 
 
