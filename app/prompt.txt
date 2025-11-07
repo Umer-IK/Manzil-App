@@ -1,0 +1,19 @@
+    const prompt = `
+      Create a detailed trip itinerary from ${params.from} to ${params.to}
+      from ${params.startDate} to ${params.endDate}.
+      Modes of transport include ${params.transport} but are not limited to it meaning local transports might be used if necessary.
+
+      The itinerary should be structured day by day and should only include:
+      - Morning, afternoon, and evening plans
+      - Accommodation recommendations (given at end of each day)
+      - Meal recommendations (if relevant)
+      - Places to visit with estimated times
+
+      STRICT INSTRUCTIONS:
+      - Do NOT add any extra text, summaries, disclaimers, or travel advice.
+      - Do NOT include any introductions or closing statements.
+      - Do NOT include "This itinerary allows you to..." or similar sentences.
+      - Only output the itinerary with proper day-wise structuring.
+
+      Format the itinerary clearly with "Day X:" for each day.
+    `;
